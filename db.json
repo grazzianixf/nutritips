@@ -1,0 +1,11 @@
+{
+    "alimentos" : [
+        {"nome" : "banana"},
+        {"nome" : "maçã"}
+    ],
+    "tiposRefeicao" : [
+        { "nome" : "Café da Manhã" },
+        { "nome" : "Almoço" },
+        { "nome" : "Jantar" }
+    ]
+}
